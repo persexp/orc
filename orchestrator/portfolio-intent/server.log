@@ -1,0 +1,7 @@
+INFO:     Started server process [59597]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8080 (Press CTRL+C to quit)
+INFO:     127.0.0.1:51816 - "POST /route-intent HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51896 - "POST /route-intent HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59458 - "POST /route-intent HTTP/1.1" 200 OK
